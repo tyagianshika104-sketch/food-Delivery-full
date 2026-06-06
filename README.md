@@ -1,4 +1,4 @@
-Food Delivery Web Application
+                                                Food Delivery Web Application
 A Food Delivery Web Application developed using Java, JSP, Servlet, Hibernate ORM, MySQL, Maven and Apache Tomcat.
 
 Features
